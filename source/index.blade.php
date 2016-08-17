@@ -32,7 +32,7 @@
             Ready to get started?
         </h3>
         <div>
-            <a href="{{ $asset_prefix }}/learn/" class="btn btn-lg btn-primary">
+            <a href="{{ $asset_prefix }}/learn/start/" class="btn btn-lg btn-primary">
                 Start learning now
             </a>
         </div>
